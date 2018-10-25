@@ -1,5 +1,5 @@
 # schoolSchedule
-A simple python script that can be used in school or college to keep track of the current, next, and following subjects.
+A simple python script that can be used in school or college to keep track of all the classes in a day.
 
 ## Example Output
 CURRENT PERIOD: Art History | 215 Riley Hall
